@@ -1,6 +1,7 @@
 
-## NLP/computational linguistics
+_Relevant is a generous way of putting it._
 
+## NLP/computational linguistics
 
 e.g. <https://www.cs.rochester.edu/~tetreaul/conferences.html>
 
@@ -23,7 +24,7 @@ e.g. <https://www.cs.rochester.edu/~tetreaul/conferences.html>
 |---|---|---|
 | EMNLP WS: International Workshop on Health Text Mining and Information Analysis<br> <https://louhi2015.limsi.fr/> | 17 Sep 2015<br> Lisbon, Portugal | WS papers: 5 July | 
 | MedInfo (World Congress on Medical and Health Informatics)<br> <http://www.imia-medinfo.org/new2/node/9><br> <http://medinfo2015.com/> | triennial… next in 2017<br>Beijing China | ??? |
-| MIE (Medical Informatics Europe)<br> <http://hec2016.eu/> | 28 Aug - 2 Sep 2016<br> Munich, Germany | presentations/posters: 21 Feb |
+| MIE (Medical Informatics Europe)<br> <http://hec2016.eu/> | 28 Aug - 2 Sep 2016<br> Munich, Germany | pres/posters: 21 Feb |
 | eHealth<br><http://ehealth-conf.org/> | 21-23 July 2015<br>  Gran Canaria, Spain | papers: 1 Jun
 | GHC (Global Healthcare Conference)<br><http://www.globalhc-conf.org/index.html> | 18-19 July 2016<br>Singapore | papers: 18 Mar | 
 | HEALTHINF (International Conference on Health Informatics) <br> <http://www.healthinf.biostec.org/> | 21-23 Feb 2016 <br>Rome, Italy | papers: 24 Sep |
@@ -58,14 +59,14 @@ e.g. <https://www.cs.rochester.edu/~tetreaul/conferences.html>
 | IJCAI (International Joint Conference on Artificial Intelligence)<br><http://ijcai-16.org/> | 9-15 July 2016<br>NYC, USA | abstract: 27 Jan<br>paper: 2 Feb | 
 | ECAI (European Conference on Artificial Intelligence)<br><http://www.ecai2016.org/> | 29 Aug - 2 Sep 2016<br>The Hague, Holland | paper: 15 June |
 
-## ML: heory
+## ML: theory
 
 
 | name | when/where | cfp deadline |
 |---|---|---|
-| COLT Conference on Learning Theory) <br> <http://www.learningtheory.org/colt2016/ | 23-26 June 2016<br>NYC, USA | papers: 12 Feb | 
+| COLT Conference on Learning Theory) <br> <http://www.learningtheory.org/colt2016/> | 23-26 June 2016<br>NYC, USA | papers: 12 Feb | 
 
-## Data science/Information Retrieval
+## Misc data science/IR
 
 | name | when/where | cfp deadline |
 |---|---|---|
