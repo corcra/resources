@@ -5,8 +5,8 @@
 e.g. <https://www.cs.rochester.edu/~tetreaul/conferences.html>
 
 
-| name                     | when/where               | cfp deadline             |
-|--------------------------|--------------------------|--------------------------|
+| name | when/where | cfp deadline |
+|---|---|---|
 | ACL (Meeting of Association for Computational Linguistics)<br><http://acl2016.org/>      | 7-12 Aug 2016<br>Berlin            | short: 29 Feb<br>long: 18 Mar<br>WS papers: 8 May   |
 | CoNLL (Conference on Computational Natural Language Learning)<br> <http://www.conll.org/>    | 11-12 Aug 2016<br>Berlin, Germany<br>(colocated with ACL)          | papers: 6 May  |
 | COLING (International Conference on Computational Linguistics)<br><http://coling2016.anlp.jp/>    | 11-16 Dec 2016<br>Osaka, Japan | papers: 15 July |
@@ -19,118 +19,14 @@ e.g. <https://www.cs.rochester.edu/~tetreaul/conferences.html>
 
 ## health informatics, medical etc.
 
-+--------------------------+--------------------------+--------------------------+
-|                     |                     |                     |
-|                          |                          |                          |
-|                     |                     | WS papers: 5 July        |
-|                          |                          |                          |
-| EMNLP WS: International  | 17 Sep 2015,             |                    |
-| Workshop on Health Text  |                          |                          |
-| Mining and Information   |                    |                          |
-| Analysis                 |                          |                          |
-|                          |                    |                          |
-|                    |                          |                          |
-|                          |                     |                          |
-|                    |                          |                          |
-|                          | Lisbon, Portugal         |                          |
-|                     |                          |                          |
-|                          |                    |                          |
-| <https://louhi2015.limsi |                          |                          |
-| .fr/>                    |                          |                          |
-|                          |                          |                          |
-|                    |                          |                          |
-+--------------------------+--------------------------+--------------------------+
-|                     |                     |                     |
-|                          |                          |                          |
-| MedInfo (World Congress  | triennial… next in 2017, | ???                      |
-| on Medical and Health    |                          |                          |
-| Informatics)             |                    |                    |
-|                          |                          |                          |
-|                    |                     |                          |
-|                          |                          |                          |
-|                     | Beijing, China           |                          |
-|                          |                          |                          |
-| [](http://www.imia-medin |                    |                          |
-| fo.org/new2/node/9)<http |                          |                          |
-| ://www.imia-medinfo.org/ |                          |                          |
-| new2/node/9>             |                          |                          |
-|                          |                          |                          |
-|                    |                          |                          |
-|                          |                          |                          |
-|                     |                          |                          |
-|                          |                          |                          |
-| <http://medinfo2015.com/ |                          |                          |
-| >                        |                          |                          |
-|                          |                          |                          |
-|                    |                          |                          |
-+--------------------------+--------------------------+--------------------------+
-|                     |                     |                     |
-|                          |                          |                          |
-| MIE (Medical Informatics | 28 Aug - 2 Sep 2016,     | presentations/posters:   |
-| Europe)                  |                          | 21 Feb                   |
-|                          |                    |                          |
-|                    |                          |                    |
-|                          |                     |                          |
-|                     |                          |                          |
-|                          | Munich, Germany          |                          |
-| <http://hec2016.eu/>     |                          |                          |
-|                          |                    |                          |
-|                    |                          |                          |
-+--------------------------+--------------------------+--------------------------+
-|                     |                     |                     |
-|                          |                          |                          |
-| eHealth                  | 21-23 July 2015,         | papers: 1 June           |
-|                          |                          |                          |
-|                    |                    |                    |
-|                          |                          |                          |
-|                     |                     |                          |
-|                          |                          |                          |
-| <http://ehealth-conf.org | Gran Canaria, Spain      |                          |
-| />                       |                          |                          |
-|                          |                    |                          |
-|                    |                          |                          |
-+--------------------------+--------------------------+--------------------------+
-|                     |                     |                     |
-|                          |                          |                          |
-| GHC (Global Healthcare   | 18-19 July 2016,         | papers: 18 Mar           |
-| Conference)              |                          |                          |
-|                          |                    |                    |
-|                    |                          |                          |
-|                          |                     |                          |
-|                     |                          |                          |
-|                          | Singapore                |                          |
-| <http://www.globalhc-con |                          |                          |
-| f.org/index.html>        |                    |                          |
-|                          |                          |                          |
-|                    |                          |                          |
-+--------------------------+--------------------------+--------------------------+
-|                     |                     |                     |
-|                          |                          |                          |
-| HEALTHINF (International | 21-23 Feb 2016,          | papers: 24 Sep           |
-| Conference on Health     |                          |                          |
-| Informatics) <http://www |                    |                    |
-| .healthinf.biostec.org/> |                          |                          |
-|                          |                     |                          |
-|                    |                          |                          |
-|                          | Rome, Italy              |                          |
-|                          |                          |                          |
-|                          |                    |                          |
-+--------------------------+--------------------------+--------------------------+
-
-
-
-**\
-**
-
-
-
-
-
-**\
-**
-
-
-
+| name | when/where | cfp deadline |
+|---|---|---|
+| EMNLP WS: International Workshop on Health Text Mining and Information Analysis<br> <https://louhi2015.limsi.fr/> | 17 Sep 2015<br> Lisbon, Portugal | WS papers: 5 July | 
+| MedInfo (World Congress on Medical and Health Informatics)<br> <http://www.imia-medinfo.org/new2/node/9><br> <http://medinfo2015.com/> | triennial… next in 2017<br>Beijing China | ??? |
+| MIE (Medical Informatics Europe)<br> <http://hec2016.eu/> | 28 Aug - 2 Sep 2016<br> Munich, Germany | presentations/posters: 21 Feb |
+| eHealth<br><http://ehealth-conf.org/> | 21-23 July 2015<br>  Gran Canaria, Spain | papers: 1 Jun
+| GHC (Global Healthcare Conference)<br><http://www.globalhc-conf.org/index.html> | 18-19 July 2016<br>Singapore | papers: 18 Mar | 
+| HEALTHINF (International Conference on Health Informatics) <br> <http://www.healthinf.biostec.org/> | 21-23 Feb 2016 <br>Rome, Italy | papers: 24 Sep |
 
 
 **ML-general**
