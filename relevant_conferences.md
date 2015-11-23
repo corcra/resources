@@ -1,57 +1,15 @@
 
-
 **NLP/computational linguistics**
-
-div>/div>
-
 
 
 e.g. <https://www.cs.rochester.edu/~tetreaul/conferences.html>
 
 
-
-+--------------------------+--------------------------+--------------------------+
-|                     |                     |                     |
-|                          |                          |                          |
 | name                     | when/where               | cfp deadline             |
-|                          |                          |                          |
-|                    |                    |                    |
-+--------------------------+--------------------------+--------------------------+
-|                     |                     |                     |
-|                          |                          |                          |
-| ACL (Meeting of          | 7-12 Aug 2016            | short: 29 Feb            |
-| Association for          |                          |                          |
-| Computational            |                    |                    |
-| Linguistics)             |                          |                          |
-|                          |                     |                     |
-|                    |                          |                          |
-|                          | Berlin, Germany          | long: 18 Mar             |
-|                     |                          |                          |
-|                          |                    |                    |
-| <http://acl2016.org/>    |                          |                          |
-|                          |                          |                     |
-|                    |                          |                          |
-|                          |                          | WS papers: 8 May         |
-|                          |                          |                          |
-|                          |                          |                    |
-+--------------------------+--------------------------+--------------------------+
-|                     |                     |                     |
-|                          |                          |                          |
-| CoNLL (Conference on     | 11-12 Aug 2016,          | papers: 6 May            |
-| Computational Natural    |                          |                          |
-| Language Learning)       |                    |                    |
-|                          |                          |                          |
-|                    |                     |                          |
-|                          |                          |                          |
-|                     | Berlin, Germany          |                          |
-|                          |                          |                          |
-| <http://www.conll.org/>  |                    |                          |
-|                          |                          |                          |
-|                    |                     |                          |
-|                          |                          |                          |
-|                          | (colocated with ACL)     |                          |
-|                          |                          |                          |
-|                          |                    |                          |
+|--------------------------|--------------------------|--------------------------|
+| ACL (Meeting of Association for Computational Linguistics)<br><http://acl2016.org/>      | 7-12 Aug 2016<br>Berlin            | short: 29 Feb<br>long: 18 Mar<br>WS papers: 8 May   |
+| CoNLL (Conference on Computational Natural Language Learning)<br> <http://www.conll.org/>    | 11-12 Aug 2016<br>Berlin, Germany<br>(colocated with ACL)          | papers: 6 May            |
+
 +--------------------------+--------------------------+--------------------------+
 |                     |                     |                     |
 |                          |                          |                          |
