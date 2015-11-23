@@ -1,5 +1,5 @@
 
-**NLP/computational linguistics**
+## NLP/computational linguistics
 
 
 e.g. <https://www.cs.rochester.edu/~tetreaul/conferences.html>
@@ -11,78 +11,13 @@ e.g. <https://www.cs.rochester.edu/~tetreaul/conferences.html>
 | CoNLL (Conference on Computational Natural Language Learning)<br> <http://www.conll.org/>    | 11-12 Aug 2016<br>Berlin, Germany<br>(colocated with ACL)          | papers: 6 May  |
 | COLING (International Conference on Computational Linguistics)<br><http://coling2016.anlp.jp/>    | 11-16 Dec 2016<br>Osaka, Japan | papers: 15 July |
 | NAACL-HLT ([North American Chapter](http://www.naacl.org) of the [Association for Computational Linguistics](http://www.aclweb.org): Human Language Technologies) <br><http://naacl.org/naacl-hlt-2016/>     | 12-17 June 2016,<br>San Diego, USA | papers: 6 Jan<br>WS papers: 25 Feb |
-
-+--------------------------+--------------------------+--------------------------+
-|                     |                     |                     |
-|                          |                          |                          |
-| EMNLP (SIGDAT conference | 2-6 Nov 2016,            | ???                      |
-| on Empirical Methods for |                          |                          |
-| Natural Language         |                    |                    |
-| Processing)              |                          |                          |
-|                          |                     |                     |
-|                    |                          |                          |
-|                          | Austin, Texas            | WS papers: aug           |
-|                     |                          |                          |
-|                          |                    |                    |
-| ish [](http://naacl.org/ |                          |                          |
-| naacl-hlt-2016/cfp.html) |                          |                          |
-| <http://naacl.org/naacl- |                          |                          |
-| hlt-2016/cfp.html>       |                          |                          |
-|                          |                          |                          |
-|                    |                          |                          |
-+--------------------------+--------------------------+--------------------------+
-|                     |                     |                     |
-|                          |                          |                          |
-| Interspeech              | 8-12 Sep 2016            | papers: 23 Mar           |
-|                          |                          |                          |
-|                    |                    |                    |
-|                          |                          |                          |
-|                     |                     |                          |
-|                          |                          |                          |
-| <http://www.interspeech2 | SF, USA                  |                          |
-| 016.org/>                |                          |                          |
-|                          |                    |                          |
-|                    |                          |                          |
-+--------------------------+--------------------------+--------------------------+
-|                     |                     |                     |
-|                          |                          |                          |
-| CICLing (Conference on   | 3-9 Apr 2016             | ???                      |
-| Intelligent Text         |                          |                          |
-| Processing and           |                    |                    |
-| Computational            |                          |                          |
-| Linguistics)             |                     |                     |
-|                          |                          |                          |
-|                    | Turkey                   | \                        |
-|                          |                          |                          |
-|                     |                    |                    |
-|                          |                          |                          |
-| <http://www.cicling.org/ |                          |                          |
-| 2016/>                   |                          |                          |
-|                          |                          |                          |
-|                    |                          |                          |
-+--------------------------+--------------------------+--------------------------+
-|                     |                     |                     |
-|                          |                          |                          |
-| EACL (European           | ???                      | ???                      |
-| Association of           |                          |                          |
-| Computational            |                    |                    |
-| Linguistics)             |                          |                          |
-|                          |                          |                          |
-|                    |                          |                          |
-+--------------------------+--------------------------+--------------------------+
+| EMNLP (SIGDAT conference on Empirical Methods for Natural Language Processing) <br><http://naacl.org/naacl-hlt-2016/cfp.html/>...ish | 2-6 Nov 2016<br>Austin, Texas | papers:???<br>WS papers: Aug |
+| Interspeech  <br><http://www.interspeech2.org/>            | 8-12 Sep 2016 <br>SF, USA            | papers: 23 Mar|
+| CICLing (Conference on Intelligent Text Processing and Computational Linguistics)<br> <http://www.cicling.org/2016/> | 3-9 Apr 2016<br>Turkey | ??? |
+| EACL (European Association of Computational Linguistics) | ??? | ??? |
 
 
-
-**\
-**
-
-
-
-
-
-**health informatics, medical etc.**
-
-
+## health informatics, medical etc.
 
 +--------------------------+--------------------------+--------------------------+
 |                     |                     |                     |
