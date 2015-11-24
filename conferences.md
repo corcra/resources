@@ -48,7 +48,11 @@ e.g. <https://www.cs.rochester.edu/~tetreaul/conferences.html>
 | BHI (International Conference on Biomedical and Health Informatics)<br><http://bhi.embs.org/2016/authors/call-for-papers/> | 24-27 Feb 2016<br>Las Vegas, USA | papers: 7 Dec | 
 | HIBIT (Health Informatics and Bioinformatics)<br><http://hibit2015.mu.edu.tr/> | 16-17 Oct 2015<br> Muğla, Turkey | ???? |
 
+## Biology/medicine (more straight-up)
 
+| name | when/where | cfp deadline |
+|---|---|---|
+| AACR (American Association for Cancer Research Annual Meeting)<br>[link](http://www.aacr.org/Meetings/Pages/MeetingDetail.aspx?EventItemID=63) | 16-20 Apr 2016<br>New Orleans, USA | abstracts: 1 Dec |
 
 ## ML: main
 *kinda arbitrary*
