@@ -16,6 +16,12 @@ e.g. <https://www.cs.rochester.edu/~tetreaul/conferences.html>
 | Interspeech  <br><http://www.interspeech2.org/>            | 8-12 Sep 2016 <br>SF, USA            | papers: 23 Mar|
 | CICLing (Conference on Intelligent Text Processing and Computational Linguistics)<br> <http://www.cicling.org/2016/> | 3-9 Apr 2016<br>Turkey | ??? |
 | EACL (European Association of Computational Linguistics) | ??? | ??? |
+| LREC (Language Resources and Evaluation Conference) <br><http://lrec2016.lrec-conf.org/en/> | 23-28 May 2016<br>Portorož, Slovenia | 25 Oct 2015 | 
+| ICON (International Conference on Natural Language Processing)<br><http://ltrc.iiit.ac.in/icon2015/index.php> | 11-13 Dec 2015 <br>Trivandrum, India  | papers: 30 Aug |
+| GSCL (International Conference of the German Society for Computational Linguistics) <br><http://gscl2015.inf.uni-due.de/> | 30 Sep - 2 Oct 2015<br>Duisburg-Essen, Germany | papers: 15 May |
+| IWCS (International Workshop on Computational Semantics) <br><https://iwcs2015.github.io/> | 14-17 Apr 2015<br>London, UK | papers: 19 Dec |
+| LDL (Workshop on Linked Data in Linguistics)<br><http://ldl2015.linguistic-lod.org/> | 31 July 2015<br>Beijing, China<br>(colocated with ACL-IJCNLP 2015) | papers: 14 May |
+
 
 
 ## Health informatics, medicine etc.
@@ -28,6 +34,20 @@ e.g. <https://www.cs.rochester.edu/~tetreaul/conferences.html>
 | eHealth<br><http://ehealth-conf.org/> | 21-23 July 2015<br>  Gran Canaria, Spain | papers: 1 Jun
 | GHC (Global Healthcare Conference)<br><http://www.globalhc-conf.org/index.html> | 18-19 July 2016<br>Singapore | papers: 18 Mar | 
 | HEALTHINF (International Conference on Health Informatics) <br> <http://www.healthinf.biostec.org/> | 21-23 Feb 2016 <br>Rome, Italy | papers: 24 Sep |
+| BigData4Healthcare 2016 (1st International Workshop on Big Data Analytics for Healthcare and Well-being) <br><http://sigai.or.kr/workshop/bigcomp/2016/big-data-for-healthcare/> | January 18, 2016<br> Hong Kong, China | papers: 29 Nov | 
+| AIMA (International Workshop on Artificial Intelligence in Medical Applications) <br><https://fedcsis.org/aima> | 11-14 Sep 2016<br>Gdansk, Poland | papers: 18 Apr |
+| Health2.0 Annual Fall <br><http://www.health2con.com/events/conferences/health-2-0-10th-annual-fall-conference/> | 25-28 Sep<br>Santa Clara, USA | ??? unsure if research-oriented |
+| Health 2.0 Europe<br><http://www.health2con.com/events/conferences/health-2-0-europe-2016/> | 10-12 May<br>Barcelona<br> | ??? see above | 
+| Workshop on Data Mining for Healthcare <br><http://www.dmmh.org/> | 2 May 2015<br>Vancouver, Canada<br>(colocated with SIAM Data Mining) | papers: 2 Feb |
+| KES-InMed-16 (Innovation in Medicine and Healthcare)<br><http://inmed-16.kesinternational.org/> | 15-17 June 2016<br>Tenerife | papers: Jan 18 |
+| CBMS (International Symposium on Computer-Based Medical System)<br><http://www.cbms2016.org/> | 20 June, 21-23 June<br>Dublin, Belfast, Ireland | abstracts: 8 Jan<br>papers: 18 Jan | 
+| IEE-ICHI (International Conference on Healthcare Informatics)<br><http://ieee-ichi.org/> | "early" Oct 2016 <br>Chicago, USA | papers: May |
+| AIM@EPIA (Portuguese Conference on AI): Artificial Intelligence in Medicine Track<br><http://epia2015.dei.uc.pt/artificial-intelligence-in-medicine/> | 8-11 Sep<br>2015 | papers: 9 March |
+| eTELEMED (International Conference on eHealth, Telemedicine, and Social Medicine) <br><http://www.iaria.org/conferences2016/eTELEMED16.html> | 24-28 Apr<br>Venice, Italy | papers: 8 Dec |
+| ICSH (International Conference for Smart Health)<br><http://www.icsh2015.org/> | 17-18 Nov 2015<br>Phoenix, USA | papers: 6 Sep |
+| BHI (International Conference on Biomedical and Health Informatics)<br><http://bhi.embs.org/2016/authors/call-for-papers/> | 24-27 Feb 2016<br>Las Vegas, USA | papers: 7 Dec | 
+| HIBIT (Health Informatics and Bioinformatics)<br><http://hibit2015.mu.edu.tr/> | 16-17 Oct 2015<br> Muğla, Turkey | ???? |
+
 
 
 ## ML: main
@@ -75,3 +95,10 @@ e.g. <https://www.cs.rochester.edu/~tetreaul/conferences.html>
 | The International Symposium on Designing, Validating, and Using Datasets<br><http://www.iaria.org/conferences2016/DATASETS.html> | 22-26 May 2016<br> Valencia, Spain | papers: 5 Jan | 
 | SIGIR (Conference on Research and Development in Information Retrieval)<br><http://sigir.org/sigir2016/> | 17-21 July 2016<br>Pisa, Italy | abstract: 14 Jan<br>papers: 21 Jan | 
 | ICDM (Industrial Conference on Data Mining)<br><http://www.data-mining-forum.de/> | 13-17 July 2016<br>NYC, USA | papers: 15 Jan | 
+
+## Security
+*Health-focused*
+
+| name | when/where | cfp deadline |
+|---|---|---|
+| HealthTech <br><https://www.usenix.org/conference/healthtech15> | 10 Aug 2015<br>Washington DC, USA<br>(colocated with USENIX Security) | posters: 24 June | 
