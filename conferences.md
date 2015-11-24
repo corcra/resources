@@ -36,8 +36,8 @@ e.g. <https://www.cs.rochester.edu/~tetreaul/conferences.html>
 | HEALTHINF (International Conference on Health Informatics) <br> <http://www.healthinf.biostec.org/> | 21-23 Feb 2016 <br>Rome, Italy | papers: 24 Sep |
 | BigData4Healthcare 2016 (1st International Workshop on Big Data Analytics for Healthcare and Well-being) <br><http://sigai.or.kr/workshop/bigcomp/2016/big-data-for-healthcare/> | January 18, 2016<br> Hong Kong, China | papers: 29 Nov | 
 | AIMA (International Workshop on Artificial Intelligence in Medical Applications) <br><https://fedcsis.org/aima> | 11-14 Sep 2016<br>Gdansk, Poland | papers: 18 Apr |
-| Health2.0 Annual Fall <br><http://www.health2con.com/events/conferences/health-2-0-10th-annual-fall-conference/> | 25-28 Sep<br>Santa Clara, USA | ??? unsure if research-oriented |
-| Health 2.0 Europe<br><http://www.health2con.com/events/conferences/health-2-0-europe-2016/> | 10-12 May<br>Barcelona<br> | ??? see above | 
+| Health2.0 Annual Fall <br>[link](http://www.health2con.com/events/conferences/health-2-0-10th-annual-fall-conference/) | 25-28 Sep<br>Santa Clara, USA | ??? unsure if research-oriented |
+| Health 2.0 Europe<br>[link](http://www.health2con.com/events/conferences/health-2-0-europe-2016/) | 10-12 May<br>Barcelona<br> | ??? see above | 
 | Workshop on Data Mining for Healthcare <br><http://www.dmmh.org/> | 2 May 2015<br>Vancouver, Canada<br>(colocated with SIAM Data Mining) | papers: 2 Feb |
 | KES-InMed-16 (Innovation in Medicine and Healthcare)<br><http://inmed-16.kesinternational.org/> | 15-17 June 2016<br>Tenerife | papers: Jan 18 |
 | CBMS (International Symposium on Computer-Based Medical System)<br><http://www.cbms2016.org/> | 20 June, 21-23 June<br>Dublin, Belfast, Ireland | abstracts: 8 Jan<br>papers: 18 Jan | 
