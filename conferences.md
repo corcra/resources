@@ -63,8 +63,9 @@ e.g. <https://www.cs.rochester.edu/~tetreaul/conferences.html>
 | ICML (International Conference on Machine Learning)<br><http://icml.cc/2016/> | 19-24 June 2016<br> NYC, USA | papers: 5 Feb | 
 | KDD (Knowledge Discovery and Data Mining)<br><http://www.kdd.org/kdd2016/> | 13-17 Aug 2016<br> San Francisco, USA | papers: 12 Feb | 
 | AAAI (Association for the Advancement of Artificial Intelligence) <br><https://www.aaai.org/Conferences/AAAI/aaai16.php> | 12-17 Feb 2016<br> Phoenix, USA | abstract: 10 Sep<br>paper: 15 Sep |
-| ECML-PKDD (European Conference on Machine Learning and Principles and Practice of Knowledge Discovery) <br><http://www.ecmlpkdd2016.org/> | 19-23 Sep 2016<br>  Italy | abstracts: 1 Apr<br>papers: 4 Apr |
-| ICLR (International Conference on Learning Representations)<br><http://www.iclr.cc/doku.php> | 2-4 May 2016<br>Puerto Rico | abstract: 12 Nov<br>paper: 19 Nov | 
+| ICLR (International Conference on Learning Representations)<br><http://www.iclr.cc/doku.php> | 2-4 May 2016<br>Puerto Rico | abstract: 12 Nov<br>papers: 19 Nov | 
+| AISTATS (International Conference on Artificial Intelligence and Statistics)<br><http://www.aistats.org/> | 9-11 May 2016<br>Cadiz, Spain | papers: 9 Oct | 
+| UAI (Conference on Uncertainty in Artificial Intelligence)<br><http://auai.org/uai2015/> | 12-16 July 2015<br>Amsterdam, Netherlands | papers: 3 March |
 
 ## ML: less main
 *may require further categorisation*
@@ -74,7 +75,6 @@ e.g. <https://www.cs.rochester.edu/~tetreaul/conferences.html>
 | IJCCI (International Joint Conference on Computational Intelligence)<br><http://www.ijcci.org/> | 9-11 Nov 2016<br>Portugal | papers: 12 May | 
 | IC3K (International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management)<br><http://www.ic3k.org/> | 9-11 Nov 2016<br>Portugal | papers: 12 May | 
 | ACML (Asian Conference on Machine Learning)<br><http://acml-conf.org/2015/acml.php> | 20-22 Nov 2015<br>Hong Kong | papers: 11 May | 
-| UAI (Uncertainty in Artificial Intelligence)<br><http://auai.org/uai2015/> | 12-16 July 2015<br>Amsterdam, Netherlands | papers: 3 Mar | 
 | ICPR (International Conference on Pattern Recognition)<br><http://www.icpr2016.org/site/> | 4-8 Dec 2016<br>Cancún Mexico | papers: 4 Apr | 
 | ISNN (International Symposium on Neural Networks)<br><http://isnn.mae.cuhk.edu.hk/> | 15-18 Oct 2015<br>Jeju, Korea | papers: 31 May | 
 | ICANN (International Conference on Artificial Neural Networks)<br><http://icann2016.org/> | 6-9 Sep 2016<br>Barcelona | papers: 1 Mar | 
@@ -82,6 +82,7 @@ e.g. <https://www.cs.rochester.edu/~tetreaul/conferences.html>
 | ICIC (International Conference on Intelligent Computing)<br><http://www.ic-ic.org/2016/index.htm> | 2-5 Aug 2016<br>Lanzhou, China | papers: 1 Mar | 
 | IJCAI (International Joint Conference on Artificial Intelligence)<br><http://ijcai-16.org/> | 9-15 July 2016<br>NYC, USA | abstract: 27 Jan<br>paper: 2 Feb | 
 | ECAI (European Conference on Artificial Intelligence)<br><http://www.ecai2016.org/> | 29 Aug - 2 Sep 2016<br>The Hague, Holland | paper: 15 June |
+| ECML-PKDD (European Conference on Machine Learning and Principles and Practice of Knowledge Discovery) <br><http://www.ecmlpkdd2016.org/> | 19-23 Sep 2016<br>  Italy | abstracts: 1 Apr<br>papers: 4 Apr |
 
 ## ML: theory
 
