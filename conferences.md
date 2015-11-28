@@ -107,3 +107,9 @@ e.g. <https://www.cs.rochester.edu/~tetreaul/conferences.html>
 | name | when/where | cfp deadline |
 |---|---|---|
 | HealthTech <br><https://www.usenix.org/conference/healthtech15> | 10 Aug 2015<br>Washington DC, USA<br>(colocated with USENIX Security) | posters: 24 June | 
+
+## Open Science
+| name | when/where | cfp deadline |
+|---|---|---|
+| ECSA (European Citizen Science Association)<br><http://www.ecsa2016.eu/> | 19-21 May 2016<br>Berlin, Germany | abstracts: Jan 2016 |
+
