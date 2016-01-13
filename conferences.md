@@ -9,6 +9,8 @@ e.g. <https://www.cs.rochester.edu/~tetreaul/conferences.html>
 | name | when/where | cfp deadline |
 |---|---|---|
 | ACL (Meeting of Association for Computational Linguistics)<br><http://acl2016.org/>      | 7-12 Aug 2016<br>Berlin  | short: 29 Feb<br>long: 18 Mar<br>WS papers: 8 May   |
+| Repl4NLP (Workshop on Representation Learning for NLP) <br><https://sites.google.com/site/repl4nlp2016/> | 11 Aug 2016<br>Berlin (colocated with ACL) | papers: 8 May |
+| RepEval (Workshop on Evaluating Vector Space Representations for NLP)<br><https://sites.google.com/site/repevalacl16/> | 12 Aug 2016<br>Berlin (colocated with ACL) | papers: 8 May |
 | CoNLL (Conference on Computational Natural Language Learning)<br> <http://www.conll.org/>    | 11-12 Aug 2016<br>Berlin, Germany<br>(colocated with ACL)          | papers: 6 May  |
 | COLING (International Conference on Computational Linguistics)<br><http://coling2016.anlp.jp/>    | 11-16 Dec 2016<br>Osaka, Japan | papers: 15 July |
 | NAACL-HLT ([North American Chapter](http://www.naacl.org) of the [Association for Computational Linguistics](http://www.aclweb.org): Human Language Technologies) <br><http://naacl.org/naacl-hlt-2016/>     | 12-17 June 2016,<br>San Diego, USA | papers: 6 Jan<br>WS papers: 25 Feb |
