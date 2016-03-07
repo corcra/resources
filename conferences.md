@@ -30,6 +30,7 @@ e.g. <https://www.cs.rochester.edu/~tetreaul/conferences.html>
 
 | name | when/where | cfp deadline |
 |---|---|---|
+| MUCMD: Machine Learning in Healthcare<br><http://mucmd.org/> | 19-20 Aug 2016<br> Los Angeles, USA | papers: 15 May |
 | EMNLP WS: International Workshop on Health Text Mining and Information Analysis<br> <https://louhi2015.limsi.fr/> | 17 Sep 2015<br> Lisbon, Portugal | WS papers: 5 July | 
 | MedInfo (World Congress on Medical and Health Informatics)<br> <http://www.imia-medinfo.org/new2/node/9><br> <http://medinfo2015.com/> | triennial… next in 2017<br>Beijing China | ??? |
 | MIE (Medical Informatics Europe)<br> <http://hec2016.eu/> | 28 Aug - 2 Sep 2016<br> Munich, Germany | pres/posters: 21 Feb |
